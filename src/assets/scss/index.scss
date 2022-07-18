@@ -1,0 +1,17 @@
+@import "reset";
+@import "icon";
+@import "base";
+// 用了sass 要去vue.config.js 配置
+/* 
+css: {
+    loaderOptions: {
+      sass: {
+        // 全局引入变量和 mixin
+        additionalData: `
+          @import "@/assets/scss/variable.scss";
+          @import "@/assets/scss/mixin.scss";
+        `
+      }
+    }
+  },
+*/
